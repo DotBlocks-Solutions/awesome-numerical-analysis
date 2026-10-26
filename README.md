@@ -14,6 +14,7 @@ The tools are categorized as follows:
 # Solvers
 
 - [FEniCS](https://github.com/FEniCS) — a popular open-source computing platform for solving partial differential equations (PDEs)
+- [AgentFEM](https://github.com/haoming-luo/agentfem) — Python finite-element project workflows built on FEniCSx for mechanics and heat transfer, with command-line execution and result verification
 - [OpenFOAM](https://develop.openfoam.com/Development/openfoam) — a free, open source CFD software released and developed by OpenCFD Ltd since 2004
 - [Deal.ii](https://github.com/dealii/dealii) — a C++ program library targeted at the computational solution of partial differential equations using adaptive finite elements
 - [Elmer](https://github.com/ElmerCSC/elmerfem) — a tool that can solve a large number of partial differential equations making it an ideal tool for multiphysical problems
